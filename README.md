@@ -27,7 +27,7 @@ If you find any more limitations, please let me know and maybe we can fix it or 
 **Recommended Unity version: 2019.3+**
 
 To install this package you need to use the Unity package manager. Click on the + button in the top left corner and "Add package from git". Paste in this URL:  
-`https://github.com/Hertzole/HertzVox-2.git`
+`https://github.com/R-N/HertzVox-2.git`
 
 ## ✅ To do
 Here are some things I want to do in the future. The timeframe of these features are uncertain. Feel free to try and make them yourself and make a pull request, if you feel like it! 
